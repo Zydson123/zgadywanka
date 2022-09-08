@@ -1,2 +1,4 @@
-package com.Klasa3P;public class main2 {
+package com.Klasa3P;
+
+public class main2 {
 }
